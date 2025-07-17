@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+나는 이런 사람이에요...
+
+궁금해요?
 <!--
 **seunghyeon1ee/seunghyeon1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
